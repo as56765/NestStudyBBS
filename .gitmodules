@@ -1,0 +1,3 @@
+[submodule "src/SubmoduleStudyBBS"]
+	path = src/SubmoduleStudyBBS
+	url = git@github.com:as56765/SubmoduleStudyBBS.git
